@@ -1,0 +1,227 @@
+Berikut storyboard media **Augmented Reality (AR)** untuk materi ekosistem dengan tema: **“Membuat Desain Ekosistem Ramah Lingkungan”**. Disusun agar cocok untuk pembelajaran SMA berbasis **PjBL + STEM**.
+
+---
+
+# 🎬 STORYBOARD MEDIA AR
+
+## 📘 Materi: Ekosistem
+
+## 🎯 Proyek: Desain Ekosistem Ramah Lingkungan
+
+---
+
+## 🟩 **Scene 1: Pembuka – Masalah Lingkungan**
+
+**Visual AR:**
+
+* Muncul dua lingkungan:
+
+  * 🌱 Ekosistem sehat (hutan hijau, sungai bersih)
+  * 🏭 Ekosistem rusak (polusi, sampah, kebakaran)
+
+**Narasi:**
+
+> “Lingkungan kita sedang mengalami perubahan. Bagaimana cara kita merancang ekosistem yang lebih ramah lingkungan?”
+
+**Interaksi:**
+
+* Siswa klik objek → muncul info penyebab kerusakan (polusi, deforestasi, limbah)
+
+---
+
+## 🟩 **Scene 2: Konsep Ekosistem**
+
+**Visual AR:**
+
+* Model 3D ekosistem (hutan/sawah/danau)
+* Komponen:
+
+  * Biotik (tumbuhan, hewan, manusia)
+  * Abiotik (air, tanah, cahaya)
+
+**Narasi:**
+
+> “Ekosistem terdiri dari komponen biotik dan abiotik yang saling berinteraksi.”
+
+**Interaksi:**
+
+* Klik objek → muncul label dan fungsi
+* Drag & drop → mengelompokkan biotik vs abiotik
+
+---
+
+## 🟩 **Scene 3: Aliran Energi & Rantai Makanan**
+
+**Visual AR:**
+
+* Animasi rantai makanan:
+  🌿 → 🐛 → 🐦 → 🦅
+
+**Narasi:**
+
+> “Energi mengalir dari produsen ke konsumen hingga pengurai.”
+
+**Interaksi:**
+
+* Siswa menyusun rantai makanan sendiri
+* Jika salah → sistem memberi feedback
+
+---
+
+## 🟩 **Scene 4: Dampak Aktivitas Manusia**
+
+**Visual AR:**
+
+* Simulasi:
+
+  * Penebangan hutan
+  * Pencemaran air
+  * Urbanisasi
+
+**Narasi:**
+
+> “Aktivitas manusia dapat mengganggu keseimbangan ekosistem.”
+
+**Interaksi:**
+
+* Slider perubahan → lihat dampak langsung (misal: ikan mati, tanah tandus)
+
+---
+
+## 🟩 **Scene 5: Prinsip Ekosistem Ramah Lingkungan**
+
+**Visual AR:**
+
+* Infografis 3D:
+
+  * ♻️ Daur ulang
+  * 🌿 Energi terbarukan
+  * 💧 Pengelolaan air
+  * 🌳 Ruang terbuka hijau
+
+**Narasi:**
+
+> “Ekosistem ramah lingkungan dirancang untuk menjaga keseimbangan alam.”
+
+**Interaksi:**
+
+* Klik tiap prinsip → contoh nyata muncul
+
+---
+
+## 🟩 **Scene 6: Tantangan Proyek (PjBL)**
+
+**Visual AR:**
+
+* Lahan kosong (virtual)
+* Toolbox berisi:
+
+  * Tanaman
+  * Air
+  * Energi
+  * Bangunan ramah lingkungan
+
+**Narasi:**
+
+> “Sekarang, saatnya kamu merancang ekosistem ramah lingkunganmu sendiri!”
+
+**Interaksi:**
+
+* Siswa mulai merancang (drag & drop objek)
+
+---
+
+## 🟩 **Scene 7: Desain Ekosistem**
+
+**Visual AR:**
+
+* Builder mode:
+
+  * Tambah pohon 🌳
+  * Tambah kolam 💧
+  * Panel surya ☀️
+  * Habitat hewan 🐾
+
+**Interaksi:**
+
+* Sistem memberi indikator:
+
+  * ✅ Seimbang
+  * ⚠️ Tidak seimbang
+
+**Fitur STEM:**
+
+* Science → keseimbangan ekosistem
+* Technology → AR interface
+* Engineering → desain sistem
+* Math → proporsi komponen
+
+---
+
+## 🟩 **Scene 8: Simulasi Hasil**
+
+**Visual AR:**
+
+* Ekosistem hasil desain siswa “hidup”
+* Animasi:
+
+  * Hewan berkembang
+  * Air bersih
+  * Tumbuhan tumbuh
+
+**Narasi:**
+
+> “Desainmu mempengaruhi keberlanjutan ekosistem.”
+
+**Interaksi:**
+
+* Jalankan simulasi waktu (hari → bulan)
+
+---
+
+## 🟩 **Scene 9: Evaluasi & Refleksi**
+
+**Visual AR:**
+
+* Skor:
+
+  * Keseimbangan ekosistem
+  * Keanekaragaman hayati
+  * Dampak lingkungan
+
+**Pertanyaan refleksi:**
+
+* “Apa yang akan kamu perbaiki?”
+* “Bagaimana desainmu membantu lingkungan?”
+
+---
+
+## 🟩 **Scene 10: Penutup**
+
+**Visual AR:**
+
+* Pesan motivasi + bumi berputar 🌍
+
+**Narasi:**
+
+> “Kita semua bisa berkontribusi menciptakan ekosistem yang lebih baik.”
+
+---
+
+# 🧩 Fitur Tambahan
+
+* 🎧 Audio narasi interaktif
+* 📱 Scan marker buku/LKS
+* 🧠 Kuis berbasis AR
+* 📝 Integrasi dengan LKPD
+
+---
+
+# 🎯 Output Pembelajaran
+
+Siswa mampu:
+
+1. Memahami konsep ekosistem
+2. Menganalisis dampak aktivitas manusia
+3. Mendesain ekosistem berkelanjutan
+4. Mengembangkan literasi ekologi dan sikap peduli lingkungan
