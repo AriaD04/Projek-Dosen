@@ -1,0 +1,9 @@
+/* Scene 3 — Aliran Energi Part-1.css — Ocean Puzzle */
+/* Slot labels positioned by JS */
+.s3p2-slot-label {
+  pointer-events: none;
+}
+/* Tray items glow */
+.s3-tray-glow {
+  filter: drop-shadow(0 0 8px rgba(0,188,212,0.6));
+}
