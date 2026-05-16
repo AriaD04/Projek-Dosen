@@ -1,5 +1,0 @@
-/* scene-2.css — Scene 2: Konsep Ekosistem (Drag & Drop) */
-/* Additional styles for S2 puzzle UI injected by JS */
-@keyframes s2p-burst {
-  to { transform: translate(var(--dx), var(--dy)); opacity: 0; }
-}
