@@ -1,6 +1,0 @@
-/* scene-3.css — Scene 3: Aliran Energi (shared for all 3 parts) */
-/* Slot labels for ocean puzzle */
-.s3p2-slot-label {
-  pointer-events: none;
-  z-index: 50;
-}
